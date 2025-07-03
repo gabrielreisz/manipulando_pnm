@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+# Arquivos compilados e executáveis
+*.o
+*.out
+*.exe
+tp2_gabriel
+
+# Diretórios de build
+build/
+bin/
+
+# Arquivos de configuração de IDEs e editores
+.vscode/
+*.swp
+*~
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
