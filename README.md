@@ -60,4 +60,4 @@ A seguir, alguns exemplos dos filtros disponíveis, aplicados a uma imagem de re
 
 
 ---
-*Trabalho desenvolvido por Gabriel Costa Reis (Matrícula: 120549) em 6 de junho de 2025.*
+*Trabalho desenvolvido por Gabriel Costa Reis em 6 de junho de 2025.*
