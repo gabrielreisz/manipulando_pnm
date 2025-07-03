@@ -53,11 +53,11 @@ A seguir, alguns exemplos dos filtros disponíveis, aplicados a uma imagem de re
 
 | Original                                    | Negativo                                         |
 | :------------------------------------------: | :----------------------------------------------: |
-| *https://github.com/gabrielreisz/manipulando_pnm/blob/87256f2b925ff19158ad409cd758d5d967feb283/examples/original.png* | *https://github.com/gabrielreisz/manipulando_pnm/blob/87256f2b925ff19158ad409cd758d5d967feb283/examples/barco_negativo.pnm* |
+| *https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/original.png | *https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/negativo.png |
 | **Filtro de Prewitt** | **Filtro Bandeira do Brasil (Formas)** |
-| *(Link para sua imagem com filtro Prewitt aqui)* | *(Link para sua imagem com filtro da bandeira aqui)* |
+| *https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/prewitt.png* | *https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/bandeira.png* |
 
-**Recomendação:** Faça o upload das imagens de exemplo do seu relatório para a pasta `examples/` no seu repositório e substitua os textos *(Link...)* pelos links diretos para elas.
+
 
 ---
 *Trabalho desenvolvido por Gabriel Costa Reis (Matrícula: 120549) em 6 de junho de 2025.*
