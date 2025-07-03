@@ -53,9 +53,9 @@ A seguir, alguns exemplos dos filtros disponíveis, aplicados a uma imagem de re
 
 | Original                                    | Negativo                                         |
 | :------------------------------------------: | :----------------------------------------------: |
-| *https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/original.png | *https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/negativo.png |
+| ![Imagem Original](https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/original.png) | ![Imagem com Filtro Negativo](https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/negativo.png) |
 | **Filtro de Prewitt** | **Filtro Bandeira do Brasil (Formas)** |
-| *https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/prewitt.png* | *https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/bandeira.png* |
+| ![Imagem com Filtro de Prewitt](https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/prewitt.png) | ![Imagem com Filtro da Bandeira](https://github.com/gabrielreisz/manipulando_pnm/blob/45dae25d78dbffc75ab69c4fa396253d89fde8c0/examples/bandeira.png) |
 
 
 
